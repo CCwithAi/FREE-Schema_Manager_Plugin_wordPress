@@ -1,11 +1,10 @@
 Central Schema Manager
-<div align="center">
-<img src="https://ccwithai.com/wp-content/uploads/2024/11/Generated-Image-March-29-2025-11_51PM.jpeg" alt="CCwithAI Logo" width="250">
-</div>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
+
 <h3>🚀 CURRENT VERSION 🚀</h3>
+
 <p><strong>[ V2.0.0 - Stable Release ]</strong></p>
+
 <p><em>A simple, reliable plugin to manage page-specific JSON-LD schema from a central settings page.</em></p>
 </div>
 
@@ -29,7 +28,7 @@ Administrator access to your WordPress dashboard
 Installation
 Download the Plugin
 
-Go to the <a href="https://github.com/CCwithAI/central-schema-manager/releases">releases page</a> on GitHub.
+Go to the releases page on GitHub.
 
 Download the latest central-schema-manager.zip file.
 
@@ -82,7 +81,7 @@ Paste into Plugin: Go back to the Central Schema Manager in WordPress and paste 
 Why Is This So Important?
 Think of schema as a translator for Google. It turns your page content into a simple, structured language that search engines understand perfectly. This helps you get eye-catching ‘Rich Results’ in search – like star ratings, prices, or event dates. These enhanced listings make your website stand out from the competition and can dramatically increase clicks from qualified users.
 
-For a deep dive into the world of Schema Markup, check out our <a href="https://ccwithai.com/interactive-guide-to-implementing-schema-markup/"><strong>Interactive Guide to Implementing Schema Markup</strong></a>.
+For a deep dive into the world of Schema Markup, check out our Interactive Guide to Implementing Schema Markup.
 
 The Pro Advantage
 This manual process can be time-consuming. Schema Master Pro automates this entire workflow. Our AI does the analysis and generation for you, saving you time and ensuring accuracy. For a complete, hands-off solution, or for help implementing schema across your entire site (E-commerce products, services, etc.), consider upgrading.
@@ -101,4 +100,4 @@ This free plugin will not be actively maintained or updated with new features. F
 
 This software is open-source and licensed under the GPLv2 or later. You are free to use, modify, and distribute it as you see fit, in accordance with the terms of the license.
 
-You can find the plugin on our <a href="https://github.com/CCwithAI/central-schema-manager"><strong>GitHub page</strong></a>.
+You can find the plugin on our GitHub page.
