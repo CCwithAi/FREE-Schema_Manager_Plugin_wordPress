@@ -1,12 +1,11 @@
 Central Schema Manager
 
+https://ccwithai.com
 
-<h3>🚀 CURRENT VERSION 🚀</h3>
+🚀 CURRENT VERSION 🚀
+<p><strong>[ V2.0.0 - Stable Release
+A simple, reliable plugin to manage page-specific JSON-LD schema from a central settings page.
 
-<p><strong>[ V2.0.0 - Stable Release ]</strong></p>
-
-<p><em>A simple, reliable plugin to manage page-specific JSON-LD schema from a central settings page.</em></p>
-</div>
 
 Central Schema Manager is a lightweight, no-nonsense tool for developers, SEOs, and hands-on site owners who need precise control over their WordPress site's structured data without the bloat of complex plugins.
 
